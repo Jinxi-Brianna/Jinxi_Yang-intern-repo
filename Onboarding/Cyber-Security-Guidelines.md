@@ -41,3 +41,8 @@ What would you do if you suspected a security breach or suspicious activity on y
 • Notify the relevant IT or security team – Ensures the incident is investigated and handled properly.
 • Scan my devices for malware – Removes any malicious software that may have caused the breach.
 • Monitor accounts for unusual activity – Keeps watch for further suspicious behaviour or fraud.
+
+New cybersecurity habit:
+<img width="478" height="47" alt="Image" src="https://github.com/user-attachments/assets/3149040e-3aa2-44df-b86b-3b557d9ab3d0" />
+
+<img width="451" height="55" alt="Image" src="https://github.com/user-attachments/assets/d82dc03b-119a-4124-a71d-83080b13fade" />
