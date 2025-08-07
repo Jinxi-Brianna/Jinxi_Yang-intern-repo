@@ -20,4 +20,7 @@ I have started using a laptop stand and an external keyboard to keep my screen a
 
 ### Evidence
 ![IMG_0843](https://github.com/user-attachments/assets/21109678-2054-49ef-be02-bc8a8d053b80)
+<img width="1466" height="786" alt="1" src="https://github.com/user-attachments/assets/e0dae415-ae14-400c-aae2-31776e28098d" />
+<img width="1407" height="738" alt="2" src="https://github.com/user-attachments/assets/5fc51880-1d48-4057-8660-6b4896a0abe6" />
+
 
