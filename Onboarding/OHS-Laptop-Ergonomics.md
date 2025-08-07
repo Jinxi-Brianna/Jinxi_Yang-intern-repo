@@ -17,3 +17,7 @@ I will use Focus Bear to schedule regular movement and posture reminders through
 
 ### Document – Workspace Change / Habit Adjustment
 I have started using a laptop stand and an external keyboard to keep my screen at eye level and my wrists in a neutral position. I also set regular Focus Bear movement reminders to ensure I take breaks and reset my posture throughout the day.
+
+### Evidence
+![IMG_0843](https://github.com/user-attachments/assets/21109678-2054-49ef-be02-bc8a8d053b80)
+
