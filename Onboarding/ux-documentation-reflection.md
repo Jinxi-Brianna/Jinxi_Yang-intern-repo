@@ -75,4 +75,11 @@ _By functioning as a single source of truth, a well-structured UX document enabl
 
 3. **Outdated or scattered information**  
    - If updates are not reflected promptly, teams may work from obsolete specifications.  
-   - Maintain a single source of truth, track version history, and centralize links to prototypes, research data, and accessibility guidelines.  
+   - Maintain a single source of truth, track version history, and centralize links to prototypes, research data, and accessibility guidelines.
+
+## Personal Experience
+
+In a university project, I worked with a team to improve the onboarding experience for a task management app. Although we didn’t formally label it as UX work at the time, I took the initiative to document our user feedback after early prototype testing. I created a Google Doc that included short user summaries, key usability issues (e.g., confusion over button labels), and screenshots of specific pain points. I also noted our design rationale for each iteration.
+
+This document helped our team make more focused updates and made it easier to explain our choices during the final presentation. Looking back, I realised it was an early form of structured UX documentation, and it made our communication much clearer.
+
