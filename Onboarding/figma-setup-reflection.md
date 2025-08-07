@@ -87,3 +87,6 @@ When collaborating in Figma, several challenges can arise:
    - *Solution*: Regularly **sync** with the official library and audit files to ensure components are current.
 
 By setting **clear collaboration rules**, maintaining a **shared design system**, and leveraging Figma’s built-in features like version history, comments, and Dev Mode, teams can avoid most collaboration pitfalls.
+
+##Screenshot of exploring Figma:<img width="1468" height="793" alt="Figma" src="https://github.com/user-attachments/assets/ef27f078-189c-44e9-b5a4-001896fdf58d" />
+
