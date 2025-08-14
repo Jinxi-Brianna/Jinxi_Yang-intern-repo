@@ -22,7 +22,7 @@ I would merge the time setup and countdown into one screen with a default 25-min
 | Step / Interaction       | User Action | Observation | Pain Points / Suggestions |
 |--------------------------|-------------|-------------|---------------------------|
 | Entry to Focus Session   | Used both: (1) Habits page → “Start a focus session”, (2) Directly clicked Focus tab | Both entry points lead to the same time-setting screen | Feels redundant; consider keeping one clear entry path |
-| Setting Focus Goal       | Entered goal before starting timer | Cannot edit Focus Goal once timer has started | Suggest allowing goal editing during the session for flexibility |
+| Setting Focus Goal       | Did not enter a goal before starting timer, but wanted to add/edit after session began | Cannot add or edit Focus Goal once timer has started | Allow adding or editing the goal during the session for flexibility |
 | Starting the Timer       | Set time on separate screen, then moved to another screen for countdown | Feels like too many steps; not streamlined | Suggest combining time setting and countdown in one screen with default 25 min and quick adjust option |
 | Ending a Session         | Pressed End button after timer started | Required selecting a reason for ending | Consider simpler stop/pause interaction (e.g., hold for 3 seconds to pause, then choose Complete/Break) |
 
