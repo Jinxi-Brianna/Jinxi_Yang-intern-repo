@@ -11,9 +11,10 @@ If you encounter difficulties, I may ask clarifying questions to better understa
 ---
 
 ## 2. Scenario
-Imagine you have just downloaded the Focus Bear app on your iPhone.  
-Your goal is to **set up and start a Focus Session for 25 minutes**.  
+Imagine you have just downloaded the Focus Bear app on your iPhone.
+Your goal is to set up and start a Focus Session for 25 minutes.
 Begin wherever you think makes sense — either from the Habits page or the Focus tab — and work your way through until the timer starts.
+You may choose to end the session at any time, then start again, following your own approach, until you complete a full 25-minute session.
 
 ---
 
