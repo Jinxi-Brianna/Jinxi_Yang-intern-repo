@@ -49,4 +49,27 @@ I see AI as a supporting tool, not a replacement for my skills. I will use it to
    Understand how the tool stores, processes, and uses your data before uploading any content.  
 
 5. Limit AI Use for Internal or High-Risk Projects  
-   Avoid using public AI tools for work involving highly sensitive or regulated information.  
+   Avoid using public AI tools for work involving highly sensitive or regulated information.
+   
+## Specific Task Example at Focus Bear – Using AI in Practice
+
+During my internship at Focus Bear, I used ChatGPT to help **convert a usability test conversation with a friend into a structured, professional usability report**.
+
+**Task example:**  
+I invited a friend, who regularly uses the Focus Keeper app, to test the Focus Session feature in the Focus Bear iPhone app. The session was an informal conversation where she shared feedback on the onboarding flow, pointing out redundancies, unclear UI elements, and extra steps in starting and ending a session. My goal was to turn this unstructured conversation into a formal report for internal review.
+
+**How I used the AI tool:**  
+- Removed personal details and sensitive app data from the conversation notes.  
+- Provided the cleaned text to ChatGPT with instructions to:  
+  1. Identify key usability issues from the conversation.  
+  2. Organise them into a clear “Issue – Why – Suggested Fix” structure.  
+  3. Keep the language concise and aligned with Focus Bear’s UX style.  
+
+**AI output quality:**  
+The AI produced a well-organised draft that grouped related issues together and suggested possible improvements, saving significant formatting and rewriting time.
+
+**Edits and fact-checking:**  
+I compared the AI’s draft against the original conversation to ensure accuracy, replaced generic terms with exact UI labels from the Focus Bear app, and corrected any minor inaccuracies. I also removed any suggestions not supported by the actual feedback.
+
+**Personal best practice:**  
+When using AI to process usability test feedback, I always anonymise the data, provide clear formatting instructions, and fact-check every output against the original source before sharing it with the team.
