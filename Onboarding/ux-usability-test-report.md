@@ -2,12 +2,15 @@
 
 **1. How easy or difficult was it to start the Focus Session?**  
 It was relatively easy to start a Focus Session — both the “Start a focus session” button on the Habits page and the Focus tab lead to the same setup screen. However, having two identical entry points feels redundant and slightly unnecessary.  
+<img width="619" height="533" alt="截屏2025-08-15 15 10 02" src="https://github.com/user-attachments/assets/1a18baed-e09f-4a41-896d-209e783a1ae9" />
 
 **2. Was anything unclear or confusing during the process?**  
 Yes — once the Focus Session started, I couldn’t edit the Focus Goal, which was unexpected. Also, the two-step flow (time setup screen → separate countdown screen) felt unnecessarily long.  
+<img width="409" height="424" alt="截屏2025-08-15 15 10 11" src="https://github.com/user-attachments/assets/54c112db-e809-4948-9d76-3e6d56ea8d0c" />
 
 **3. Did you notice any labels, icons, or buttons that were hard to understand?**  
 The “Focus Goal” field could be more clearly explained — it’s not obvious if it’s required or optional. The end-session flow also wasn’t immediately clear, as it required selecting a reason for ending.  
+<img width="353" height="337" alt="截屏2025-08-15 15 10 19" src="https://github.com/user-attachments/assets/3cb8e571-47c6-4c2c-91ff-7ed560f3f574" />
 
 **4. If you could change one thing about the Focus Session setup, what would it be?**  
 I would merge the time setup and countdown into one screen with a default 25-minute option, and allow quick adjustments via a wheel or slider. I would also simplify ending a session (e.g., long-press to pause, then choose “Complete” or “Break”).  
