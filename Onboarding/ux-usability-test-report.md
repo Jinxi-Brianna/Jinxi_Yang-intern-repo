@@ -1,3 +1,11 @@
+# Usability Test Report
+
+## 🕒 Session Info
+- **Participant:** Rita  
+- **Date & Time:** 15 August, 2:00 PM  
+- **Location:** In-person test session at home  
+- **Facilitator:** Jinxi Yang (myself)  
+- **Platform:** iOS version of Focus Bear
 ## 1. Participant Question Responses
 
 **1. How easy or difficult was it to start the Focus Session?**  
