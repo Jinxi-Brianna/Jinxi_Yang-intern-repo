@@ -30,8 +30,15 @@ I would merge the time setup and countdown into one screen with a default 25-min
 | Ending a Session         | Pressed End button after timer started | Required selecting a reason for ending | Consider simpler stop/pause interaction (e.g., hold for 3 seconds to pause, then choose Complete/Break) |
 
 ---
+## 3.Summary & Recommendation
+Based on the observations and participant feedback, it is recommended to redesign the Focus Session interface in the Focus Bear iPhone app to improve efficiency, flexibility, and clarity.
+Key opportunities for redesign include:
+1. Consolidate the two identical entry points into a single, clear starting path.
+2. Make the Focus Goal field more visible and allow adding or editing it during an active session.
+3. Merge the time setup and countdown into a single screen with a default time option and quick adjustment controls.
+4. Introduce a flexible pause option to temporarily stop a session without fully ending it.
 
-## 3. Reflection
+## 4. Reflection
 
 **What surprised you the most about how your test participant used the app?**  
 I was surprised that the participant immediately noticed the redundancy between the two entry points (Habits page and Focus tab) and questioned the need for both. This suggests that users quickly identify unnecessary complexity even when it doesn’t block task completion.  
