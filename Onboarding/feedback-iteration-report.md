@@ -1,7 +1,4 @@
-Identify 8 improvements that could enhance the user experience.  
-Consider potential business or technical constraints that might impact implementation.  
-Prioritise the improvements based on feasibility.
-
+## Task：
 ---
 
 ## UX Improvements & Feasibility Analysis
@@ -11,11 +8,11 @@ Prioritise the improvements based on feasibility.
 | 1 | Fix fake “Allow” button | The “Allow” label appears interactive but does nothing, misleading users during notification setup. | Minor frontend fix; no business constraints. | High |
 | 2 | Add feature carousel before goal input | Users are asked to input goals before understanding app functionality, leading to confusion. | UI addition; supports business goal of showcasing value early. | High |
 | 3 | Align suggested habits with user goals | Goals like “Improve eye health” are not reflected in habit suggestions, causing a disconnect. | Requires goal-to-habit mapping logic; moderate complexity. | High |
-| 4 | Simplify onboarding flow | The current process is long and causes users to forget earlier inputs. Cognitive load is high. | Requires UX restructuring and possible backend logic adjustment. | Medium |
-| 5 | Clarify screen time logic (5 PM vs 10 PM) | Contradictory messages around blocking time cause user confusion. | Primarily copy/UI change; minimal technical effort. | Medium |
-| 6 | Soften tone around enforcement (“Earn screen time”) | User felt the app was paternalistic. More supportive language would feel less controlling. | Text-only fix is easy; character-system redesign would take more effort. | Medium (copy) / Low (character) |
-| 7 | Fix app re-entry after blocking | “Open FocusBear” failed after blocking YouTube; app didn’t resume properly. | Involves OS-level behavior and notification handling; medium technical effort. | Low–Medium |
-| 8 | Emphasize notification permission importance | Denying notifications breaks key reminders, but this is not clearly communicated. | Simple UI text addition; no backend changes. | High |
+| 4 | Emphasize notification permission importance | Denying notifications breaks key reminders, but this is not clearly communicated. | Simple UI text addition; no backend changes. | High |
+| 5 | Simplify onboarding flow | The current process is long and causes users to forget earlier inputs. Cognitive load is high. | Requires UX restructuring and possible backend logic adjustment. | Medium |
+| 6 | Clarify screen time logic (5 PM vs 10 PM) | Contradictory messages around blocking time cause user confusion. | Primarily copy/UI change; minimal technical effort. | Medium |
+| 7 | Soften tone around enforcement (“Earn screen time”) | User felt the app was paternalistic. More supportive language would feel less controlling. | Text-only fix is easy; character-system redesign would take more effort. | Medium (copy) / Low (character) |
+| 8 | Fix app re-entry after blocking | “Open FocusBear” failed after blocking YouTube; app didn’t resume properly. | Involves OS-level behavior and notification handling; medium technical effort. | Low–Medium |
 
 ---
 
@@ -24,12 +21,12 @@ Prioritise the improvements based on feasibility.
 ### High Priority – Quick Wins
 - Fix fake “Allow” button
 - Add feature carousel before goal input
-- Emphasize importance of notification permission
 - Align habits with user goals
+- Emphasize importance of notification permission
 
 ### Medium Priority – Structural or Copy Refinement
-- Clarify screen time logic (5 PM vs 10 PM)
 - Simplify onboarding structure
+- Clarify screen time logic (5 PM vs 10 PM)
 - Revise tone around habit enforcement (copy only)
 
 ### Low Priority – Deferred or Complex
