@@ -1,7 +1,7 @@
 # Usability Test Report
 
 ## 🕒 Session Info
-- **Participant:** Rita  
+- **Participant:** My frients Rita  
 - **Date & Time:** 15 August, 2:00 PM  
 - **Location:** In-person test session at home  
 - **Facilitator:** Jinxi Yang (myself)  
