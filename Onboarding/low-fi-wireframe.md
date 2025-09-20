@@ -17,8 +17,9 @@ I would explain that low-fi wireframes save time and resources by focusing on la
 - Ignoring consistency in navigation and interactions.
 
 # Task
-Figma link: https://www.figma.com/design/E6ChDtYlZPsFndZPkRIrGA/Onboarding?node-id=110-664&t=StLW0D2N2Sb70PVU-1
 
 Low-fi Prototype Screenshots:
 
 <img width="318" height="610" alt="截屏2025-09-05 22 07 31" src="https://github.com/user-attachments/assets/be0559a9-ca13-4f7e-8389-1e8b5ef438af" />
+
+Figma link: https://www.figma.com/design/E6ChDtYlZPsFndZPkRIrGA/Onboarding?node-id=110-664&t=StLW0D2N2Sb70PVU-1
