@@ -19,7 +19,6 @@ I would explain that low-fi wireframes save time and resources by focusing on la
 # Task
 Figma link: https://www.figma.com/design/E6ChDtYlZPsFndZPkRIrGA/Onboarding?node-id=110-664&t=StLW0D2N2Sb70PVU-1
 
-Screenshots:
-<img width="518" height="372" alt="截屏2025-09-05 22 00 59" src="https://github.com/user-attachments/assets/10c9ceaf-52f2-4197-bc93-d070180c2214" />
+Low-fi Prototype Screenshots:
 
 <img width="318" height="610" alt="截屏2025-09-05 22 07 31" src="https://github.com/user-attachments/assets/be0559a9-ca13-4f7e-8389-1e8b5ef438af" />
