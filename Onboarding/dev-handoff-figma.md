@@ -28,3 +28,22 @@ This delivery includes two screens in the onboarding flow:
 - [x] Buttons and picker labelled
 - [x] Text and logic verified with PM
 - [x] Developer comments added in Figma
+
+
+# Reflection - Developer Handoff
+
+## What are the biggest challenges in developer handoff, and how can they be avoided?
+The main challenge in developer handoff is the gap between how a design looks in Figma and how it behaves once implemented.  
+Developers may focus on functionality, while designers care about details like spacing, transitions, or text tone.  
+To avoid misunderstandings, the Figma file must be organized and self-explanatory — with clear layer names, annotations for key interactions, and references to reusable components.  
+A short written note or checklist before release also helps ensure that developers understand priorities and context.
+
+## If a developer misinterprets a design, how should a UX designer clarify?
+The best way to clarify is to show visual examples instead of long explanations.  
+I would highlight the relevant frame in Figma, use comments to explain the intention, and provide screenshots or recordings if needed.  
+Instead of assigning blame, the focus should be on how the user experience is affected.  
+For example, saying “The button should stay fixed so users always see the action” is more effective than “You implemented it wrong.”  
+This approach maintains collaboration and keeps communication constructive.
+
+## What are the risks of not providing enough detail in a Figma handoff?
+A vague handoff can
